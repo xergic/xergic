@@ -1,20 +1,21 @@
-### Hi there 👋
+# Hello there 👋
 
 - 🔭 I’m currently working on: [Wishfox.app](https://wishfox.app?utm_source=github)
 - 🌱 I’m currently learning: Svelte/SvelteKit
 
-### 📦 Languages and Technologies
+## ⚡️ Tech Stack
 
-- **Web**
+### 🌍 Web
   - HTML, CSS
   - TailwindCSS, Sass
-  - Javascript, Typescript, Node.js
+  - Javascript, Typescript
   - Vue.js, Nuxt.js
-  - i18n
+  - Node.js
   - Express.js
   - PostgreSQL, Firebase
+  - Cloudflare
 
-- **iOS**
-  - Swift, Obj-C
+### 📱 iOS
+  - Swift, SwiftUI, Obj-C
   - Alamofire
   - CocoaPods, SPM
