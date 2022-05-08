@@ -1,7 +1,8 @@
 # Hello there 👋
 
+- 🏢 I'm freelance iOS/Front-end developer working with [NFCtron](https://www.nfctron.com/) and [Bohemica Studio](https://www.bohemicastudio.com/)
 - 🔭 I’m currently working on: [Wishfox.app](https://wishfox.app?utm_source=github)
-- 🌱 I’m currently learning: Svelte/SvelteKit
+- 🌱 I’m currently learning: Svelte/SvelteKit and Flutter
 
 ## ⚡️ Tech Stack
 
