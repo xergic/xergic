@@ -20,3 +20,8 @@
   - Swift, SwiftUI, Obj-C
   - Alamofire
   - CocoaPods, SPM
+
+## Contact me
+  - [Website](https://kandera.cz)
+  - [LinkedId](https://www.linkedin.com/in/ondrakandera/)
+  - [Twitter](https://twitter.com/xergic) (only 🇨🇿)
