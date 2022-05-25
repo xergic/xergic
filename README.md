@@ -23,5 +23,5 @@
 
 ## Contact me
   - [Website](https://kandera.cz)
-  - [LinkedId](https://www.linkedin.com/in/ondrakandera/)
+  - [LinkedIn](https://www.linkedin.com/in/ondrakandera/)
   - [Twitter](https://twitter.com/xergic) (only 🇨🇿)
