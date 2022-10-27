@@ -2,7 +2,7 @@
 
 - 🏢 I'm freelance iOS/Front-end developer working with [iDevBand](https://idevband.com) and [Bohemica Studio](https://www.bohemicastudio.com/)
 - 🔭 I’m currently working on: [Wishfox.app](https://wishfox.app?utm_source=github)
-- 🌱 I’m currently learning: Svelte/SvelteKit and Flutter
+- 🌱 I’m currently learning: React Native, React/Next.js
 
 ## ⚡️ Tech Stack
 
@@ -10,7 +10,7 @@
   - HTML, CSS
   - TailwindCSS, Sass
   - Javascript, Typescript
-  - Vue.js, Nuxt.js
+  - Vue.js, Nuxt.js, Astro
   - Node.js
   - Express.js
   - PostgreSQL, Firebase
