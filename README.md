@@ -1,25 +1,23 @@
 # Hello there 👋
 
-- 🏢 I'm freelance iOS/Front-end developer working with [iDevBand](https://idevband.com) and [Bohemica Studio](https://www.bohemicastudio.com/)
+- 🏢 I'm freelance iOS/Front-end developer working with [iDevBand](https://idevband.com)
 - 🔭 I’m currently working on: [Wishfox.app](https://wishfox.app?utm_source=github)
-- 🌱 I’m currently learning: React Native, React/Next.js
+- 🌱 I’m currently learning: Flutter, React Native, React/Next.js
 
 ## ⚡️ Tech Stack
 
 ### 🌍 Web
-  - HTML, CSS
-  - TailwindCSS, Sass
-  - Javascript, Typescript
-  - Vue.js, Nuxt.js, Astro
-  - Node.js
-  - Express.js
-  - PostgreSQL, Firebase
+  - HTML5, CSS3 (of course)
+  - Tailwind, Sass
+  - JavaScript, TypeScript
+  - Vue, Nuxt, Astro
+  - Node, Express
+  - PostgreSQL
   - Cloudflare
 
-### 📱 iOS
+### 📱 Mobile
   - Swift, SwiftUI, Obj-C
-  - Alamofire
-  - CocoaPods, SPM
+  - Flutter
 
 ## Contact me
   - [Website](https://kandera.cz)
