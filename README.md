@@ -2,7 +2,7 @@
 
 - 🏢 I'm freelance iOS/Front-end developer working with [iDevBand](https://idevband.com)
 - 🔭 I’m currently working on: [Wishfox.app](https://wishfox.app?utm_source=github)
-- 🌱 I’m currently learning: Flutter, React Native, React/Next.js
+- 🌱 I’m currently learning: React Native, React/Next.js
 
 ## ⚡️ Tech Stack
 
@@ -12,7 +12,7 @@
   - JavaScript, TypeScript
   - Vue, Nuxt, Astro
   - Node, Express
-  - PostgreSQL
+  - PostgreSQL (Prisma, Sequelize)
   - Cloudflare
 
 ### 📱 Mobile
