@@ -2,7 +2,7 @@
 
 - 🏢 I'm freelance iOS/Front-end developer working with [iDevBand](https://idevband.com)
 - 🔭 I’m currently working on: [Wishfox.app](https://wishfox.app?utm_source=github)
-- 🌱 I’m currently learning: React Native, React/Next.js
+- 🌱 I’m currently learning: Bun+Hono
 
 ## ⚡️ Tech Stack
 
@@ -17,6 +17,7 @@
 
 ### 📱 Mobile
   - Swift, SwiftUI, Obj-C
+  - React Native
   - Flutter
 
 ## Contact me
