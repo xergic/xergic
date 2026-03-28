@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- 🏢 I'm freelance iOS/Front-end developer working with [iDevBand](https://idevband.com)
+- 🏢 I'm freelance iOS/Mobile/Full-stack developer
 - 🔭 I’m currently working on: [Wishfox.app](https://wishfox.app?utm_source=github)
 - 🌱 I’m currently learning: Docker
 
@@ -8,11 +8,11 @@
 
 ### 🌍 Web
   - HTML5, CSS3 (of course), Tailwind
-  - JavaScript, TypeScript
-  - Vue, Nuxt, Astro
+  - TypeScript, JavaScript
+  - Vue/Nuxt, React/Next.js, Astro
   - Bun+Hono, Node+Express
-  - PostgreSQL (Prisma, Sequelize)
-  - Cloudflare
+  - PostgreSQL (Prisma, Drizzle), Redis
+  - Cloudflare, Docker (Dokploy)
 
 ### 📱 Mobile
   - Swift, SwiftUI, Obj-C
